@@ -1,0 +1,10 @@
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\bin\Debug\XOX_C#.exe.config
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\bin\Debug\XOX_C#.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\bin\Debug\XOX_C#.pdb
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C#.csproj.AssemblyReference.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C_.Form1.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C_.Properties.Resources.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C#.csproj.GenerateResource.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C#.csproj.CoreCompileInputs.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C#.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\XOX_C#\XOX_C#\obj\Debug\XOX_C#.pdb
